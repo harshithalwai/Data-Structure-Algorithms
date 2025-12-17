@@ -1,0 +1,84 @@
+Beginners Level
+
+Rock Paper Scissor
+Calculator for Scientific Operations
+Student Database Management System
+Inventory System
+Payroll System
+Banking System
+Medical Information System
+Stock Management System
+Hospital Management System
+School Management System
+Hotel Management System
+Library Management System
+Traffic Management System
+Hangman Game
+Text-Based Adventure Game
+Trading Application
+Search Engine
+
+
+Intermediate Level
+
+Snake Game
+Text Editor
+Tic-Tac-Toe
+Minesweeper Game
+Phonebook Application
+Using Wake-on-LAN protocol to remote power On a PC
+Single-colored Blank Image using OpenCV
+OpenCV Project for Image Blur
+OpenCV to Play a Video
+OpenCV to Blur a Video
+OpenCV Project for Shape Detection
+OpenCV Project for Face Detection
+OpenCV Project for Coin Detection
+Music Player
+Cryptography Application
+
+
+Expert Level
+
+
+Password Manager
+Ball Game using OpenGL
+Helicopter Game
+Web Browser
+Finding Nearby Cabs
+Online Exam System
+Online Voting System
+Online Ticket Reservation System
+Online Job Portal
+Online Food Ordering System
+Online Shopping System
+Blackjack with AI
+Chess Game with AI
+Bike Race Game
+3D Bounce Ball Game
+
+
+C++ Projects for Beginners
+1. Bookshop Management System Using C++
+2. Bank Management System In C++
+3. Student Record Management System
+4. Contact Management System Using C++
+5. Car Rental System In C++
+6. Credit Card Validator
+Intermediate C++ Projects
+7. Sudoku Game
+8. Trading Application Project In C++
+9. Casino Number Guessing Game
+10. Sales Management System
+11. Face Detection App with C++
+12. Digital Calculator
+13. Tic-Tac-Toe
+C++ Projects for Experts
+14. Academic Search Engine
+15. Bike Race Game
+16. 3D Bounce Ball Game
+17. Payroll Management System 
+18. Hotel Booking System
+19. Digital Piano
+20. Address Book
+

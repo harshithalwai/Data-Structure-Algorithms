@@ -1,0 +1,1 @@
+{"name":"Local: Lec53","url":"d:\\Java\\Lectures\\Lec53.java","tests":[{"id":1765994846336,"input":"5\n2 3 1 2 3","output":"[1, 2, 3, 4, 5]"},{"id":1765994870724,"input":"5\n2 5 4 3 1","output":"[1, 2, 3, 4, 5]"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Java\\Lectures\\Lec53.java","group":"local","local":true}
