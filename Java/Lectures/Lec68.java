@@ -2,7 +2,7 @@ public class Lec68 {
     public static void main(String[] args) {
         // String customers = "YYNY";
         // String customers ="NNNNN";
-        String customers ="YYYY";
+        String customers = "YYYY";
         // int n = customers.length();
 
         // // Explanation:
@@ -63,6 +63,6 @@ public class Lec68 {
             }
         }
 
-        System.err.println(bestHour);
+        System.out.println(bestHour);
     }
 }
