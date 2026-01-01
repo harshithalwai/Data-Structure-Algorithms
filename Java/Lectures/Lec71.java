@@ -2,10 +2,6 @@ import java.util.Scanner;
 
 public class Lec71 {
     public static void main(String[] args) {
-        // 1 4 7 11
-        // 2 5 8 12
-        // 3 6 9 16
-        // 10 13 14 17
         Scanner sc = new Scanner(System.in);
         int row = sc.nextInt();
         int col = sc.nextInt();
@@ -19,7 +15,6 @@ public class Lec71 {
         int target = sc.nextInt();
 
         int st = 0, end = arr.length - 1;
-        System.out.println(st + " " + end);
         while (st <= end) {
             if (arr[st][end] == target) {
                 System.out.println("Found at index: " + end + ", " + st);
