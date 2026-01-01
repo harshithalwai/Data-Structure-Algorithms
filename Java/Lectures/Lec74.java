@@ -1,3 +1,4 @@
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class Lec74 {
@@ -5,7 +6,7 @@ public class Lec74 {
 
         Scanner sc = new Scanner(System.in);
         String str = sc.nextLine();
-        System.out.println(str.replace("H", "Hello"));
+        
     }
 }
 // System.out.println(str.getClass().getName());
@@ -27,3 +28,8 @@ public class Lec74 {
 // System.out.println(str.length());
 // System.out.println(str.trim().length());
 // System.out.println(str.strip());// ye bhi tri krti he
+// System.out.println(str.replace("[hH]", "Hello"));
+// System.out.println(str.replaceAll("[a-z]", "Hello"));
+// System.out.println(str.indexOf("@"));
+// System.out.println(Arrays.toString(str.split("@")));
+// System.out.println(str.substring(0, str.indexOf("@")));
