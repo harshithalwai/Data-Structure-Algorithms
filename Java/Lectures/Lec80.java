@@ -6,7 +6,7 @@ public class Lec80 {
         Arrays.sort(arr);
         int freq = 1;
         int ans = arr[0];
-        for (int i = 1; i < arr.length; i++) {
+        for (int i = 1; i < arr.length; i++) { 
             if (arr[i] == arr[i - 1]) {
                 freq++;
             } else {
