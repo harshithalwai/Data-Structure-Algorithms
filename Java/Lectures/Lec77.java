@@ -31,7 +31,7 @@ public class Lec77 {
             }
             if (freq > arr.length / 2) {
                 System.out.println(ans);
-                return;
+                break;
             }
         }
         System.out.println(ans);
