@@ -1,0 +1,1 @@
+{"name":"Local: Lec82","url":"d:\\DSA\\Java\\Lectures\\Lec82.java","tests":[{"id":1767983221388,"input":"4","output":"4 4 4 4 4 4 4\n4 3 3 3 3 3 4\n4 3 2 2 2 3 4\n4 3 2 1 2 3 4\n4 3 2 2 2 3 4\n4 3 3 3 3 3 4\n4 4 4 4 4 4 4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DSA\\Java\\Lectures\\Lec82.java","group":"local","local":true}
